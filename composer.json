@@ -1,0 +1,14 @@
+{
+  "name": "vendor_name/WebbyLab",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Dmitriy",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+  }
+}
